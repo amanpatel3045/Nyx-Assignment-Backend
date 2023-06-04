@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/cefjoeii/mern-crud.git"
   },
+   "engines": {
+    "node": ">=14.20.1"
+  },
   "keywords": [],
   "author": "Ceferino Jose II",
   "license": "MIT",
